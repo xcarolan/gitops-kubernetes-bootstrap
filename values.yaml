@@ -23,4 +23,4 @@ logging:
 metallb:
 # This only passes through to the bootstrap resources a single address pool, 
 # you can use a range if you you want to do something more complex
-  addresspool: 192.168.88.70/24
+  addresspool: 192.168.2.0/24
